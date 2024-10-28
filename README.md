@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Giovanni
+- 👀 I’m interested in programming in python, java and c++
+- 🌱 I’m currently learning a bit of everything
+- 📫 How to reach me (Not at the moment)
